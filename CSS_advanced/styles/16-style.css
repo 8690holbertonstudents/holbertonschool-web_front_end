@@ -183,7 +183,9 @@ template {
 
 /* ------ My own CSS code -------- */
 
-* {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
