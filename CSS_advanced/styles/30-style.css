@@ -366,7 +366,7 @@ a:active {
     padding-top: 45%;
 }
 
-.card-work .card-title::before {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
